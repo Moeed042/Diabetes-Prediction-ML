@@ -30,19 +30,6 @@ The dataset includes the following features:
 - Model training and evaluation
 - Performance visualization
 
-## ⚙️ Installation
-To set up this project locally, follow these steps:
-
-```bash
-# Clone this repository
-git clone https://github.com/yourusername/Diabetes-Prediction-ML.git
-
-# Navigate to the project folder
-cd Diabetes-Prediction-ML
-
-# Install dependencies
-pip install -r requirements.txt
-```
 
 ## 🚀 Usage
 You can open the Jupyter Notebook to explore and run the model:
